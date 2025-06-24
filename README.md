@@ -34,7 +34,7 @@ Course location: [German Centre]([https://www.huone.events/sg/](https://www.germ
 
 ## Wednesday
 
-Group work at NUS/Tembusu College (find your own quite corner)
+Group work at NUS/Tembusu College (find your own quiet corner)
 
 * 16:00 Check-in meeting (Tembusu College lounge, 1st floor)
 
