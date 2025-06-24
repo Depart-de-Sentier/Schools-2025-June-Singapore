@@ -23,14 +23,20 @@ Course location: [Huone](https://www.huone.events/sg/), 3D River Valley Road 03-
 
 ## Tuesday
 
+Course location: [German Centre]([https://www.huone.events/sg/](https://www.germancentre.com/en/singapore/)), 25 International Business Park, "Stuttgart" room.
+
 * 8:30 ODYM tutorial
-* 12:00 Lunch
-* 13:00 ODYM tutorial
-* 16:00 Group formation
+* 12:10 Lunch
+* 13:10 ODYM tutorial
+* 15:00 Group formation
+* 16:00 Start of group work
+* 20:00 Group project pitch (Tembusu College lounge, 1st floor)
 
 ## Wednesday
 
-Group work
+Group work at NUS/Tembusu College (find your own quite corner)
+
+* 16:00 Check-in meeting (Tembusu College lounge, 1st floor)
 
 ## Thursday
 
