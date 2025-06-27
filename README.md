@@ -2,6 +2,8 @@
 
 Materials and organization for the June 2025 DdS course in Singapore
 
+![Group Picture](./group_picture_nus.jpeg)
+
 # Chat room
 
 🙋‍♀️🙋‍♂️ School Chat Room: [Join the chat Get help from team coaches and other students here!](https://matrix.to/#/#dds-schools:matrix.org)
