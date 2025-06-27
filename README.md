@@ -6,6 +6,9 @@ Materials and organization for the June 2025 DdS course in Singapore
 
 🙋‍♀️🙋‍♂️ School Chat Room: [Join the chat Get help from team coaches and other students here!](https://matrix.to/#/#dds-schools:matrix.org)
 
+> [!TIP]
+> Important links and materials from the chat have been collected in [the Reading List file](https://github.com/Depart-de-Sentier/Schools-2025-June-Singapore/blob/main/readinglist.md).
+
 # Schedule
 
 The schedule will be adapted during the course - the following is a rough outline.
